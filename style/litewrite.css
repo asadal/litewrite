@@ -125,7 +125,7 @@ aside:focus,
   opacity: 0.5;
   z-index: 100;
   width: 76%;
-  font-size: 16px;
+  font-size: 14px;
   margin: 18px 15px 15px 17px;
   padding: 0;
   background: none;
@@ -192,7 +192,7 @@ aside a,
 
 .entries a {
 	text-overflow: ellipsis;
-  height: 1.35em;
+  height: 1em;
   padding: .5em 0 .5em 1.2em;
 	-webkit-tap-highlight-color: rgba(0,0,0,0); /* prevent grey flash when clicking */
 }
