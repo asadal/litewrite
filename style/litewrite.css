@@ -48,7 +48,7 @@ body > .scrollbox {
   position: relative;
   width: 90%;
   margin: 3.5% 0 0 4%; /* make sure cursor is not hidden in very top left corner */
-  padding: 0 20% 8% 0;
+  padding: 0 25% 8% 5%;
   min-height: 88%;
   font: normal 16px/130% SUIT ExtraLight, 'IBM Plex Sans KR', 'NanumBarunGothic', 'Sofia Pro', serif;
   outline: none;
