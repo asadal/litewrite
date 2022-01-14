@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   overflow: hidden;
 	color: #000;
-	background: #fcfcfc url(../img/noise.png) repeat;
+	background: #fcfcfc url(img/noise.png) repeat;
 	font:16px SUIT ExtraLight, Helvetica, sans-serif;
 }
 
@@ -66,7 +66,7 @@ body > .scrollbox {
 }
 
 .editor.cyrillic {
-  font-family: 'Gregor', Georgia, serif;
+  font-family: SUIT ExtraLight, Helvetica, serif;
 }
 
 .editor.rtl {
